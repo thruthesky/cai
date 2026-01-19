@@ -8,6 +8,10 @@
 - **요약/정리형 출력**: 체크리스트, 연락처, 상세 설명을 구조화된 형식으로 생성
 - **Mac M4 최적화**: MPS(Metal Performance Shaders) GPU 가속 지원
 
+## 단계별 가이드
+
+처음 시작하는 분은 [step-by-step.md](step-by-step.md)를 참조하세요. 프로젝트 생성부터 텍스트 생성까지 9단계로 설명합니다.
+
 ## 빠른 시작
 
 ```bash
