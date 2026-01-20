@@ -61,8 +61,7 @@ jai/
 | [05-model-architecture.md](docs/05-model-architecture.md) | GPT 모델 아키텍처, 코드 |
 | [06-training.md](docs/06-training.md) | 학습 루프, 체크포인트 |
 | [07-generation.md](docs/07-generation.md) | 텍스트 생성, 샘플링 파라미터 |
-| [08-concepts.md](docs/08-concepts.md) | 9가지 핵심 개념 설명 |
-| [09-tips.md](docs/09-tips.md) | 팁과 트러블슈팅 |
+| [08-server.md](docs/08-server.md) | JAI LLM 서버, API, 데몬 실행 |
 
 ## 핵심 개념
 
