@@ -83,10 +83,12 @@ jai/
 | [data-flow.md](faq/data-flow.md) | 데이터 흐름 파이프라인 |
 | [why-job-llm.md](faq/why-job-llm.md) | 구인 정보 LLM 필요성 |
 | [sample-data.md](faq/sample-data.md) | 샘플 데이터 요구사항 |
+| [sample-data-strategy.md](faq/sample-data-strategy.md) | 샘플 데이터 구성 전략 |
 | [why-tokenize.md](faq/why-tokenize.md) | 토큰화 이유 |
 | [how-to-tokenize.md](faq/how-to-tokenize.md) | 토큰화 방법 (외부 라이브러리) |
 | [vocab-size.md](faq/vocab-size.md) | vocab_size 설명 |
 | [after-tokenize.md](faq/after-tokenize.md) | 토큰화 다음 단계 |
+| [embedding-and-prediction.md](faq/embedding-and-prediction.md) | 임베딩과 다음 토큰 예측 |
 | [core-concepts.md](faq/core-concepts.md) | 핵심 개념 9가지 |
 | [troubleshooting.md](faq/troubleshooting.md) | 트러블슈팅 |
 

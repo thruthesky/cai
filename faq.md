@@ -13,6 +13,7 @@ JAI(Job AI) 프로젝트의 핵심 개념을 쉽게 설명합니다.
 | [data-flow.md](faq/data-flow.md) | JAI 데이터 흐름 (전체 파이프라인) |
 | [why-job-llm.md](faq/why-job-llm.md) | 구인 정보 LLM이 필요한가? |
 | [sample-data.md](faq/sample-data.md) | 샘플 데이터는 실제 구인 정보여야 하는가? |
+| [sample-data-strategy.md](faq/sample-data-strategy.md) | 샘플 데이터 구성 전략 (DB 필드, 변환 규칙, 코드) |
 
 ### 토큰화
 
@@ -27,6 +28,7 @@ JAI(Job AI) 프로젝트의 핵심 개념을 쉽게 설명합니다.
 
 | 문서 | 설명 |
 |------|------|
+| [embedding-and-prediction.md](faq/embedding-and-prediction.md) | 토큰화 → 임베딩 → 다음 토큰 예측 (벡터 검색과의 차이) |
 | [core-concepts.md](faq/core-concepts.md) | 핵심 개념 9가지 |
 | [troubleshooting.md](faq/troubleshooting.md) | 트러블슈팅 |
 
